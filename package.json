@@ -131,7 +131,7 @@
     }
   },
   "dependencies": {
-    "formiojs": "https://github.com/mark-james/formio.js/archive/2.22.0_Post_Method.tar.gz",
+    "formiojs": "github:mark-james/formio.js#Feature-Add-Post-To-Select",
     "lodash": "^4.17.4",
     "ngx-bootstrap": "^1.9.3"
   }
