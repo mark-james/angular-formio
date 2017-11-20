@@ -131,7 +131,7 @@
     }
   },
   "dependencies": {
-    "formiojs": "^2.22.0",
+    "formiojs": "https://github.com/mark-james/formio.js/archive/2.22.0_Post_Method.tar.gz",
     "lodash": "^4.17.4",
     "ngx-bootstrap": "^1.9.3"
   }
